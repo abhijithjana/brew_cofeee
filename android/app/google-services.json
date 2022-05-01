@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283174330394",
+    "project_id": "cofee-5daec",
+    "storage_bucket": "cofee-5daec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283174330394:android:ea761fe5026d89e9d171a3",
+        "android_client_info": {
+          "package_name": "com.example.cofee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283174330394-r37fspiphqm64o2c1rbu8ju9e3dcjis1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVfl4wrdAqCVuGp1famzV3nEBBiyfz6vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283174330394-r37fspiphqm64o2c1rbu8ju9e3dcjis1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
